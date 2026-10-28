@@ -16,7 +16,7 @@ contourpy==1.4.0
 cycler==0.12.1
 dill==0.4.1
 einops==0.8.1
-filelock==3.32.3
+filelock==4.2.1
 fonttools==4.67.0
 freetype-py==2.5.1
 frozenlist==1.8.0
