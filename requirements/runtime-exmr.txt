@@ -45,7 +45,7 @@ nvidia-ml-py==13.615.71
 omegaconf==2.4.0
 opencv-python==4.11.0.86
 packaging==26.3
-pillow==12.3.0
+pillow==13.0.0
 polars==2.0.0
 polars-runtime-32==2.0.0
 portalocker==4.4.1
