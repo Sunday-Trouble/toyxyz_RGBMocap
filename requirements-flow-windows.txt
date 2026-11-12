@@ -1,6 +1,6 @@
 # Isolated FlowHMR runtime. Install torch/torchvision from the CUDA 12.8 index.
 # Native Windows Python 3.10; never install these over the GVHMR environment.
-torch==2.7.1
+torch==2.13.0
 torchvision==0.22.1
 numpy==1.26.4
 scipy==1.15.3
