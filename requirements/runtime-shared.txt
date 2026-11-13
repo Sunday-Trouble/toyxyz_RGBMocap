@@ -76,7 +76,7 @@ seaborn==0.13.2
 setuptools==75.8.0
 six==1.17.0
 smplx==0.1.28
-soupsieve==2.10
+soupsieve==4.0
 sympy==1.14.0
 termcolor==3.3.0
 tifffile==2025.5.10
