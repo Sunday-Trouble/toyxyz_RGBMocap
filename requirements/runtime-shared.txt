@@ -42,7 +42,7 @@ joblib==1.6.0
 kiwisolver==1.5.1
 lapx==0.5.12
 lazy-loader==0.6
-lightning==2.3.0
+lightning==2.6.6
 lightning-utilities==0.15.3
 markdown-it-py==4.2.0
 markupsafe==3.0.3
